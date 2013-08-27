@@ -1,4 +1,7 @@
 # Parasites and their Niches in Tech
+Fixing culture in technology is a hot button issue right now with people coming from many perspectives and most is organized around addressing issues of race and gender, here I'd like to address issues of [keyiarchy](http://en.wikipedia.org/wiki/Kyriarchy) as an ecological system.  Two key facets we can look at are how money and investment culture affect software development and how software developers are shaped and empowered/exploited because of it.  By exploring these power dynamics and ecosystems we start to discuss not just how to reorganize our companies and hackerspaces but actually how to fix problems in the wider world of open source and internet culture in general. 
+
+## The Current Metaphor
 I’ve been hearing a bunch about volatiles and stables lately; about how we are all the same basically, just in different parts of a transition from volatile to stable in an ever waging war of versions 0.0...1.0...2.0... I don't use the word war casually I hear it again and again.
 
 * Each Company is in a war to win
