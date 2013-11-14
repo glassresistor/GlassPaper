@@ -1,6 +1,6 @@
-#I'm not an Art Piece
+#I am not an Art Piece
 
-I'm feeling pretty sad today but I don't really want to talk about my life in an open forum.  So lets talk about somethings that make me sad in general and on a daily basis, its probably the root cause of everything else anyways.  Bear with me because this will be a bunch of things.
+I'm feeling pretty sad today but I don't really want to talk about my life in an open forum.  So lets talk about something that make me sad in general and on a daily basis, its probably the root cause of everything else anyways.  
 
 Almost everyday friends, co-workers, acquaintances, and strangers misgender me.  I'm not really sure of the best way to deal with it.  Half the time its people who I'm never going to see again but its also friends that I hold onto and people I see everyday.  More than misgendering strangers will confront me on the street some will ask me if that red dress is a dare, call me faggot, follow me around or point.
 
